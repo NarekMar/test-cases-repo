@@ -35,7 +35,7 @@ Steps to reproduce:
 Actual result: the previously entered "John" disappears from the "First Name" field, and it shows only the last typed letter ("h"). The "Last Name" field stays empty.
 Expected result: "First Name" keeps "John", and the "Last Name" field shows "Smith".
 
-![Product images do not match](bug-03-screenshot.png)
+![Product images do not match](bug-02-screenshot.png)
 
 ---
 
